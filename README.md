@@ -1,7 +1,7 @@
 
 # Hi, I'm Adam 👋
 
-[<img align="left" alt="linkedIn" width="22px" src="./linkedin.svg">][linkedin]
+[<img src="./linkedin.svg" width="22px" alt="linkedin-adamklingbaum">][linkedin]\
 I am a full stack software developer from Toronto, Canada.
 
 I love to solve problems and write code.
@@ -20,3 +20,5 @@ I love to solve problems and write code.
 - I am currently working on a stock portfolio tracker that provides simple, user-friendly insights for the average investor
 - I most recently built a microservice and API for a high-traffic e-commerce web application
 - I am spending my time learning more about system design and advanced server-side concepts
+
+[linkedin]: www.linkedin.com/in/adamklingbaum
