@@ -1,14 +1,11 @@
 
 # Hi, I'm Adam 👋
 
-[<img src="./linkedin.svg" width="22px" alt="linkedin-adamklingbaum">](https://www.linkedin.com/in/adamklingbaum/)
+I love to learn, solve problems and write code.
 
-I am an investment banker turned full stack software developer from Toronto, Canada.
-
-I love to solve problems and write code. 
+I work primarily with the JavaScript web stack, but I am always eager to learn new languages and frameworks.
 
 Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing 
-
 
 ## Core skills
 **Front end:** JavaScript (ES5 and ES6), React, HTML5, CSS3
@@ -20,6 +17,6 @@ Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing
 **Developer Tools**: Git, npm, Webpack, Babel
 
 ## Projects
-- I am currently building a server and API to support a new wedding planning and registry application
-- Some of my other recent projects include a full-stack stock portfolio tracker and a microservice and API for a high-traffic e-commerce web application
-- I am spending my time learning more about system design and advanced server-side concepts
+- Currently building: server and API to support a new wedding planning and registry application
+- Previously built: full-stack stock portfolio tracker; microservice and API for a high-traffic e-commerce web application
+- Currently learning: system design and advanced server-side concepts
