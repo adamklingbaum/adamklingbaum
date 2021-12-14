@@ -1,7 +1,7 @@
 
 # Hi, I'm Adam 👋
 
-[<img src="./linkedin.svg" width="22px" alt="linkedin-adamklingbaum">](linkedin)
+[<img src="./linkedin.svg" width="22px" alt="linkedin-adamklingbaum">](https://www.linkedin.com/in/adamklingbaum/)
 
 I am an investment banker turned full stack software developer from Toronto, Canada.
 
@@ -23,5 +23,3 @@ Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing
 - I am currently working on a stock portfolio tracker that provides simple, user-friendly insights for the average investor
 - I most recently built a microservice and API for a high-traffic e-commerce web application
 - I am spending my time learning more about system design and advanced server-side concepts
-
-[linkedin]: /www.linkedin.com/in/adamklingbaum
