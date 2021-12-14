@@ -7,6 +7,8 @@ I work primarily with the JavaScript web stack, but I am always eager to learn n
 
 Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing 
 
+[LinkedIn](www.linkedin.com/in/adamklingbaum) | [Email](mailto:adam.klingbaum@gmail.com)
+
 ## What I've been up to
 
 - **Currently building**: server and API to support a new wedding planning and registry application
