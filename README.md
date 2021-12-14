@@ -6,7 +6,7 @@ I am an investment banker turned full stack software developer from Toronto, Can
 
 I love to solve problems and write code. 
 
-Other interests: 💪. fitness • 🎸  guitar • ⛷️  skiing 
+Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing 
 
 
 ## Core skills
