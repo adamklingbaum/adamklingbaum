@@ -20,6 +20,6 @@ Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing
 **Developer Tools**: Git, npm, Webpack, Babel
 
 ## Projects
-- I am currently working on a stock portfolio tracker that provides simple, user-friendly insights for the average investor
-- I most recently built a microservice and API for a high-traffic e-commerce web application
+- I am currently building a server and API to support a new wedding planning and registry application
+- Some of my other recent projects include a full-stack stock portfolio tracker and a microservice and API for a high-traffic e-commerce web application
 - I am spending my time learning more about system design and advanced server-side concepts
