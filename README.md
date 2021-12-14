@@ -16,7 +16,7 @@ Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing
 
 **Developer Tools**: Git, npm, Webpack, Babel
 
-## Projects
+## What I've been up to
 - Currently building: server and API to support a new wedding planning and registry application
 - Previously built: full-stack stock portfolio tracker; microservice and API for a high-traffic e-commerce web application
 - Currently learning: system design and advanced server-side concepts
