@@ -1,7 +1,8 @@
 
 # Hi, I'm Adam 👋
 
-[<img src="./linkedin.svg" width="22px" alt="linkedin-adamklingbaum">][linkedin]\
+[<img src="./linkedin.svg" width="22px" alt="linkedin-adamklingbaum">](linkedin)
+
 I am an investment banker turned full stack software developer from Toronto, Canada.
 
 I love to solve problems and write code. 
