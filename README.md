@@ -1,7 +1,7 @@
 
 # Hi, I'm Adam 👋
 
-I love to learn, solve problems and write code.
+I love to learn, solve problems and write `code`.
 
 I work primarily with the JavaScript web stack, but I am always eager to learn new languages and frameworks.
 
