@@ -23,4 +23,4 @@ Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing
 - I most recently built a microservice and API for a high-traffic e-commerce web application
 - I am spending my time learning more about system design and advanced server-side concepts
 
-[linkedin]: www.linkedin.com/in/adamklingbaum
+[linkedin]: "www.linkedin.com/in/adamklingbaum"
