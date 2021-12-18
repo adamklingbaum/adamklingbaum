@@ -9,7 +9,7 @@ Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing
 
 [LinkedIn](https://www.linkedin.com/in/adamklingbaum/) | [Email](mailto:adam.klingbaum@gmail.com)
 
-## What I've been up to
+## What I'm up to
 
 - **Currently building**: server and API to support a new wedding planning and registry application
 
