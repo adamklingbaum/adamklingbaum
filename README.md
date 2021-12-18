@@ -3,11 +3,11 @@
 
 I love to learn, solve problems and write `code`.
 
-I work primarily with the JavaScript web stack, but I am always eager to learn new languages and frameworks.
+I work primarily with the JavaScript web stack, but I love to learn new things.
 
 Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing 
 
-[LinkedIn](www.linkedin.com/in/adamklingbaum) | [Email](mailto:adam.klingbaum@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/adamklingbaum/) | [Email](mailto:adam.klingbaum@gmail.com)
 
 ## What I've been up to
 
