@@ -12,7 +12,7 @@
 >What's your favorite tech stock?
 
 
-:muscle: &nbsp; **Fitness**
+:weight_lifting: &nbsp; **Fitness**
 >What's your workout split?
 
 :guitar: &nbsp; **Guitar**	
