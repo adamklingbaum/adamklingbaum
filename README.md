@@ -3,7 +3,7 @@
 
 I love to learn, solve problems and write `code`.
 
-I work primarily with the JavaScript web stack (React + Node), but I also love to learn new things.
+I work primarily with the JavaScript web stack (React + Node), but love to learn new things.
 
 Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing 
 
