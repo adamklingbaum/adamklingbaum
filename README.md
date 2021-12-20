@@ -17,7 +17,7 @@ Also passionate about: 💪. fitness • 🎸  guitar • ⛷️  skiing
 
 - **Currently learning more about**: system design; advanced server-side concepts; Python
 
-## Core skills
+## Primary tech stack
 
 ### Front end:
 - JavaScript (ES5 and ES6)
