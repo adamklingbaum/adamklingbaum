@@ -1,20 +1,24 @@
 # Hi, I'm Adam 👋
 
-#### Technology and finance enthusiast from Toronto, Canada
+### Technology and finance enthusiast from Toronto, Canada
 
 - Full-stack software developer; former investment banker
 - I love to learn, solve problems and write `code`
 - I work primarily with the JavaScript web stack, but love to learn new things
 
-#### Also passionate about
+### Also passionate about:
 
-📈 Finance... what's your favorite tech stock?
+:chart_with_upwards_trend: &nbsp; **Finance**
+>What's your favorite tech stock?
 
-💪 Fitness... what's your workout split?
 
-🎸 Guitar... Fender or Gibson?
+:muscle: &nbsp; **Fitness**
+>What's your workout split?
 
-#### Contact
+:guitar: &nbsp; **Guitar**	
+>Fender or Gibson?
+
+### Contact
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamklingbaum/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.klingbaum@gmail.com)
 
