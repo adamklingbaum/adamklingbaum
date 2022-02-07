@@ -9,14 +9,11 @@
 ### Also passionate about:
 
 :chart_with_upwards_trend: &nbsp; **Finance**
->What's your favorite tech stock?
 
 
 :weight_lifting: &nbsp; **Fitness**
->What's your workout split?
 
-:guitar: &nbsp; **Guitar**	
->Fender or Gibson?
+:guitar: &nbsp; **Guitar**
 
 ### Contact
 
