@@ -10,7 +10,6 @@
 
 :chart_with_upwards_trend: &nbsp; **Finance**
 
-
 :weight_lifting: &nbsp; **Fitness**
 
 :guitar: &nbsp; **Guitar**
@@ -19,15 +18,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamklingbaum/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.klingbaum@gmail.com)
 
-## What I'm up to
-
-- **Currently building**: Service and API for a new wedding planning and registry application
-
-- **Recently built**: Full-stack stock portfolio tracker • Microservice and API for a high-traffic e-commerce web application
-
-- **Learning more about**: System design • Server-side programming • Python
-
-## Primary tech stack
+## Tech skills
 
 #### Front-end
 
