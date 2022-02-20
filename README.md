@@ -2,9 +2,8 @@
 
 ### Technology and finance enthusiast from Toronto, Canada
 
-- Full-stack software developer; former investment banker
-- I love to learn, solve problems and write `code`
-- I work primarily with the JavaScript web stack, but love to learn new things
+- Full-stack software developer
+- Former investment banker
 
 ### Also passionate about:
 
