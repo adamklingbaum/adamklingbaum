@@ -1,17 +1,8 @@
 # Hi, I'm Adam 👋
 
-### Technology and finance enthusiast from Toronto, Canada
+Full-stack software developer, formerly an investment banker.
 
-- Full-stack software developer
-- Former investment banker
-
-### Also passionate about:
-
-:chart_with_upwards_trend: &nbsp; **Finance**
-
-:weight_lifting: &nbsp; **Fitness**
-
-:guitar: &nbsp; **Guitar**
+Outside of coding, I am also passionate about finance :chart_with_upwards_trend:, fitness :weight_lifting: and music :guitar:. 
 
 ### Contact
 
