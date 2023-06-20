@@ -1,3 +1,3 @@
 Hi, I'm Adam 👋
 
-I am a full-stack, primarily backend software engineer at [Shopify](https://www.shopify.com/).
+I'm an avid programmer, working as a software developer at [Shopify](https://github.com/Shopify)https://github.com/Shopify.
